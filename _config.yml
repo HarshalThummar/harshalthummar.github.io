@@ -1,2 +1,3 @@
 name: Harshal Thummar
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
